@@ -1,0 +1,11 @@
+C:\Users\Jhonn\Desktop\M3\M3\P1\bin\Debug\P1.exe.config
+C:\Users\Jhonn\Desktop\M3\M3\P1\bin\Debug\P1.exe
+C:\Users\Jhonn\Desktop\M3\M3\P1\bin\Debug\P1.pdb
+C:\Users\Jhonn\Desktop\M3\M3\P1\bin\Debug\P1.xml
+C:\Users\Jhonn\Desktop\M3\M3\P1\obj\Debug\P1.vbprojAssemblyReference.cache
+C:\Users\Jhonn\Desktop\M3\M3\P1\obj\Debug\P1.Form1.resources
+C:\Users\Jhonn\Desktop\M3\M3\P1\obj\Debug\P1.Resources.resources
+C:\Users\Jhonn\Desktop\M3\M3\P1\obj\Debug\P1.vbproj.GenerateResource.cache
+C:\Users\Jhonn\Desktop\M3\M3\P1\obj\Debug\P1.exe
+C:\Users\Jhonn\Desktop\M3\M3\P1\obj\Debug\P1.xml
+C:\Users\Jhonn\Desktop\M3\M3\P1\obj\Debug\P1.pdb
